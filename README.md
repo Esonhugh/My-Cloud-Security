@@ -25,6 +25,7 @@ This is repo for my cloud security articlas or projects
 |cloud,k8s,golang,lowpriv|k8spider|https://github.com/Esonhugh/k8spider|A k8s low privilige tool for pentest, you can use it for service discovery and other attack without any priv of RBAC|
 |cloud,policy,parser,golang,lib,cloudprovider|CloudPolicy|https://github.com/Esonhugh/CloudPolicy|A tools for parse AWS like policy and generate the policy in a more golang way|
 |cloud,k8s,pve,openstack,ticket|TicketMaster|https://github.com/Esonhugh/TicketMaster| A tool for you to using certifate private key to generate a forged tickets|
+|aliyun,policy| Aliyun System managed policies|https://github.com/Esonhugh/aliyun-system-manage|a project for u to get aliyun managed policies|
 
 ### Game Design
 
