@@ -6,6 +6,7 @@ This is repo for my cloud security articlas or projects
 
 |Tags|Title|Location|Description|
 |---| --- | --- | ---|
+|k8s,realworld,unauth| Spider in the pod |https://github.com/Esonhugh/Spider-in-the-Pod-How-to-Penetrate-Kubernetes-with-Low-or-No-Privileges| A document for lateral movemnet in the kubernetes without any priv|
 |suctf,ctf,aliyun,cloudprovider| easy k8s on aliyun |https://github.com/team-su/SUCTF-2025/tree/main/web/SU_easyk8s_on_aliyun/writeup| The official writeup of easy k8s on aliyun in SUCTF 2025, attack oss with ECS RAM Role and aliyun cli |
 |suctf,ctf,k8s| easy k8s |https://github.com/team-su/SUCTF-2025/tree/main/web/SU_easyk8s/writeup| The official writeup of easy k8s in SUCTF 2025|
 |htb,ctf,aws,gcp,cloudprovider|Hackthebox business 2024 CTF wp|https://github.com/Esonhugh/HTB-BusinessCTF-2024-Cloud| The writeup for the Hackthebox business 2024 CTF wp|
