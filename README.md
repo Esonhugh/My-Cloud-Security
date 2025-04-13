@@ -24,6 +24,7 @@ This is repo for my cloud security articlas or projects
 |---|---| ---|---|
 |cloud,aliyun,security,golang,cloudprovider|cf|https://github.com/teamssix/cf|DEPRECATED: Cloud Hacking tools for AKSK abusing(Targeted Aliyun/TencentCloud...)|
 |cloud,k8s,golang,lowpriv|k8spider|https://github.com/Esonhugh/k8spider|A k8s low privilige tool for pentest, you can use it for service discovery and other attack without any priv of RBAC|
+|cloud,k8s,golang,lowpriv,ingressnightmare|ingressNightmarePOC|https://github.com/Esonhugh/ingressNightmare-CVE-2025-1974-exps|Best EXP/POC for Ingress Nightmare CVE-2025-1974|
 |cloud,policy,parser,golang,lib,cloudprovider|CloudPolicy|https://github.com/Esonhugh/CloudPolicy|A tools for parse AWS like policy and generate the policy in a more golang way|
 |cloud,k8s,pve,openstack,ticket|TicketMaster|https://github.com/Esonhugh/TicketMaster| A tool for you to using certifate private key to generate a forged tickets|
 |aliyun,policy| Aliyun System managed policies|https://github.com/Esonhugh/aliyun-system-manage|a project for u to get aliyun managed policies|
